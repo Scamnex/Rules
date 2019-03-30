@@ -1,0 +1,10 @@
+name: Rules
+author: ChampOfGamesYT
+main: Rules\Main
+version: 0.1
+description: Regeln
+api: [3.0.0]
+commands:
+    rules:
+        default: true
+        description: Öffnet die Regeln
