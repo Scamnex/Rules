@@ -3,7 +3,7 @@ author: ChampOfGamesYT
 main: Rules\Main
 version: 0.1
 description: Regeln
-api: [3.0.0]
+api: [3.0.0, 4.0.0]
 commands:
     rules:
         default: true
